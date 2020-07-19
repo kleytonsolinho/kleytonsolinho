@@ -7,7 +7,7 @@ Passionate about learning new things, I believe that as the world changes too qu
 🖖🏼  Your focus is your reality! 👨🏻‍💻
 
 <h1 align="center">
-  <img alt="Coding..." title="Developer" src="developer.gif" width="320px" />
+  <img alt="Coding..." title="Developer" src="anime.gif" width="320px" />
 </h1>
 
 <!--
