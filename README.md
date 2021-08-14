@@ -7,10 +7,9 @@ Passionate about learning new things, I believe that as the world changes too qu
 🖖🏼  Your focus is your reality! 👨🏻‍💻
 
 <div align="center">
-  <h1 align="left">
+  <div align="left">
     <img alt="Coding..." title="Developer" src="https://github.com/kleytonsolinho/kleytonsolinho/blob/master/anime.gif?raw=true" width="320px" />
-  </h1>
-
+  </div>
   <div align="right">
      <a href="https://github.com/kleytonsolinho>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleytonsolinho&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
