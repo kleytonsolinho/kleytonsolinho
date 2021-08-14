@@ -16,7 +16,7 @@ Passionate about learning new things, I believe that as the world changes too qu
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonsolinho&layout=compact&langs_count=16&theme=vue"/>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleytonsolinho&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleytonsolinho&repo=kleytonsolinho)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kleytonsolinho&repo=github-readme-stats&theme=vue&show_owner=true)
 
