@@ -6,16 +6,13 @@ Passionate about learning new things, I believe that as the world changes too qu
 
 🖖🏼  Your focus is your reality! 👨🏻‍💻
 
-<div align="center">
-  <div>
-    <img alt="Coding..." title="Developer" src="https://github.com/kleytonsolinho/kleytonsolinho/blob/master/anime.gif?raw=true" width="320px" />
+<a href="https://github.com/kleytonsolinho>
+  <div align="center">
+       <img alt="Coding..." title="Developer" src="https://github.com/kleytonsolinho/kleytonsolinho/blob/master/anime.gif?raw=true" width="320px" />
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleytonsolinho&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonsolinho&layout=compact&langs_count=16&theme=vue"/>
   </div>
-  <div>
-     <a href="https://github.com/kleytonsolinho>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleytonsolinho&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonsolinho&layout=compact&langs_count=16&theme=vue"/>
-  </div>
-</div>
+</a>
                                                                                                                                                   <!--
 **kleytonsolinho/kleytonsolinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
