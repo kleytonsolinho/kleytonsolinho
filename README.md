@@ -1,4 +1,4 @@
-## Kleyton Solinho
+## Hi, I'm Kleyton Solinho
 
 Developer Front End and Mobile (React)
 
@@ -18,6 +18,14 @@ Passionate about learning new things, I believe that as the world changes too qu
 
 <a href="https://github.com/kleytonsolinho/finclass-clone-react">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=finclass-clone-react&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/kleytonsolinho/finclass-clone-react-native">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=finclass-clone-react-native&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/kleytonsolinho/github_explorer">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=github_explorer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <!--
