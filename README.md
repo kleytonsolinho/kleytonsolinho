@@ -15,7 +15,12 @@ Passionate about learning new things, I believe that as the world changes too qu
     <img alt="Coding..." title="Developer" src="https://github.com/kleytonsolinho/kleytonsolinho/blob/master/anime.gif?raw=true" width="320px" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonsolinho&layout=compact&langs_count=16&theme=vue"/>
 </div>
-                                                                                                                                                  <!--
+
+<a href="https://github.com/kleytonsolinho/finclass-clone-react">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=finclass-clone-react&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<!--
 **kleytonsolinho/kleytonsolinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
