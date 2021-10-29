@@ -1,5 +1,7 @@
 ## Kleyton Solinho
 
+Developer Front End and Mobile (React)
+
 Software Engineering student and technology enthusiast.
 
 Passionate about learning new things, I believe that as the world changes too quickly and only those who have the capacity to adapt will be able to help in that change.
@@ -7,6 +9,7 @@ Passionate about learning new things, I believe that as the world changes too qu
 🖖🏼  Your focus is your reality! 👨🏻‍💻
 
 ⚡  My Portfolio => [https://kleytonsolinho.com](https://kleytonsolinho.com)
+💬  Contact => kleytonsolinho@gmail.com
 
 <div align="center">
     <img alt="Coding..." title="Developer" src="https://github.com/kleytonsolinho/kleytonsolinho/blob/master/anime.gif?raw=true" width="320px" />
