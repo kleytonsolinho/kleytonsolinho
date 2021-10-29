@@ -33,6 +33,14 @@ Passionate about learning new things, I believe that as the world changes too qu
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=redux-youtube-clone-react&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
+<a href="https://github.com/kleytonsolinho/mymoney">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=mymoney&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/kleytonsolinho/gofinances-react-native">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=gofinances-react-native&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 <a href="https://github.com/kleytonsolinho/github_explorer">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kleytonsolinho&repo=github_explorer&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
