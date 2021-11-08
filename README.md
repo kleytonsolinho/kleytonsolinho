@@ -8,7 +8,7 @@ Passionate about learning new things, I believe that as the world changes too qu
 
 🖖🏼  Your focus is your reality! 👨🏻‍💻
 
-⚡  My Portfolio => [https://kleytonsolinho.com](https://kleytonsolinho.com)<br />
+⚡  Portfolio => [https://kleytonsolinho.com](https://kleytonsolinho.com)<br />
 💬  Contact => kleytonsolinho@gmail.com
 
 <div align="center">
