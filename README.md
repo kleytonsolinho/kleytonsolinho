@@ -2,7 +2,7 @@
 
 Developer Front End and Mobile (React)
 
-Software Engineering student and technology enthusiast.
+Currently Software Engineer and student Solutions Architect and technology enthusiast.
 
 Passionate about learning new things, I believe that as the world changes too quickly and only those who have the capacity to adapt will be able to help in that change.
 
