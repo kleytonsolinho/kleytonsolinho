@@ -1,7 +1,6 @@
 ## Hi, I'm Kleyton Solinho
 
-Developer Front End and Mobile (React)
-Developer Back End (NodeJS + Go)
+Developer Full Stack and Mobile (React + NodeJS + Go)
 
 Currently Software Engineer and student Solutions Architect and technology enthusiast.
 
