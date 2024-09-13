@@ -1,6 +1,6 @@
 ## Hi, I'm Kleyton Solinho
 
-Full Stack and Mobile Developer (React + NodeJS + Go)
+Software Engineer (ReactJS + React Native + NodeJS + Go)
 
 Currently Software Engineer and student Solutions Architect.
 
