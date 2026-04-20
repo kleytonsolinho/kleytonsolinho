@@ -1,8 +1,8 @@
 ## Hi, I'm Kleyton Solinho
 
-Software Engineer (ReactJS + React Native + NodeJS + Go)
+Staff/Senior Software Engineer (ReactJS/VueJS/React Native + NodeJS/Bun/GoLang)
 
-Currently Software Engineer and student Solutions Architect.
+Currently Staff/Senior Software Engineer and student Solutions Architect.
 
 Passionate about learning new things, I believe that as the world changes too quickly and only those who have the capacity to adapt will be able to help in that change.
 
