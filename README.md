@@ -11,6 +11,7 @@ Passionate about learning new things, I believe that as the world changes too qu
 ⚡  Portfolio => [https://kleytonsolinho.com](https://kleytonsolinho.com)<br />
 💬  Contact => kleytonsolinho@gmail.com
 
+<!--
 <div align="center">
     <img alt="Coding..." title="Developer" src="https://github.com/kleytonsolinho/kleytonsolinho/blob/master/anime.gif?raw=true" width="320px" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleytonsolinho&layout=compact&langs_count=16&theme=vue"/>
@@ -46,7 +47,6 @@ Passionate about learning new things, I believe that as the world changes too qu
 </a>
 </div>
 
-<!--
 **kleytonsolinho/kleytonsolinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
