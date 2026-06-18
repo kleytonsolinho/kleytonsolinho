@@ -10,7 +10,7 @@ Passionate about learning new things, I believe that as the world changes too qu
 
 ⚡  Portfolio => [https://kleytonsolinho.com](https://kleytonsolinho.com)<br />
 💬  Contact => kleytonsolinho@gmail.com<br />
-&nbsp;𝕏  &nbsp;&nbsp;Twitter/X => [https://x.com/kleytonsolinho](https://x.com/kleytonsolinho)
+&nbsp;𝕏  &nbsp;Twitter/X => [https://x.com/kleytonsolinho](https://x.com/kleytonsolinho)
 
 <!--
 <div align="center">
